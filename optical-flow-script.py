@@ -13,7 +13,7 @@ cap = cv2.VideoCapture(0)
 
 ret, prev_frame = cap.read()
 
-prev_gray = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2RGB)
+prev_gray = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2GRAY)
 
 # PTS to track
 prevPts = cv2.goodFeaturesToTrack(prev_gray, mask=None, **corner_track_params)
@@ -24,7 +24,7 @@ while True:
 
     ret, frame = cap.read()
 
-    frame_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+    frame_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
     # calculating the optical flow
 
