@@ -1,6 +1,6 @@
 # Using OpenCv to Program Uses Cases of Optical Flow Method
 
-*Note: This repository is in development, in other words, non-complete*
+<p style="font-size:18px"><b>Note: This repository is in development, in other words, non-complete</b></p>
 
 #
 
