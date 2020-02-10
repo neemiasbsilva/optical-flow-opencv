@@ -10,7 +10,7 @@
 
 <ul>
     <li> <a href="optical-flow.ipynb">Optical Flow (using Jupyter notebook)</a>;
-    
+    <li> <a href="optical-flow-script.py">Optical (using python scrip)</a><b> - Recommeded for Run</b>.
 </ul>
 
 #
