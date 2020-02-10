@@ -24,7 +24,7 @@
 
 #
 
-<p style="font-size:18px;"><b>Note</b>: To run this method you need to install the <b>OpenCv</b> library, and for undertand the concept of the method, requires of you <b>strong linear algebra skills</b>.</p>
+<p style="font-size:18px;"><b>Note</b>: To run this method you need to install the <b>OpenCv</b> library, and for you undertand the concept of the method, requires of you <b>strong linear algebra skills</b>.</p>
 
 #
 
