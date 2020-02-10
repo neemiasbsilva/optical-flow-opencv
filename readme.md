@@ -1,7 +1,7 @@
 # Using OpenCv to Program Uses Cases of Optical Flow Method
 
 <p style="font-size:16 px;"> 
-    This repository contains four files that are implement two thecniques of <b>Optical Flow</b>. 
+    This repository contains 4 files that are implement two thecniques of <b>Optical Flow</b>. 
 </p>
 
 <p syle="font-size:16 px;">
